@@ -49,4 +49,16 @@ username:  admin
 email: admin@gmail.com
 password: Marian2012
 
+Running the Project
+
+cd/backend  
+vertual environment created   
+copy the code    .\venv\Scripts\Activate
+run the command  python python manage.py runserver
+
+cd/frontend
+npm start
+
+
+
 Admin can create users
